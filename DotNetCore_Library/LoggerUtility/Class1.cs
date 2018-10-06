@@ -1,15 +1,8 @@
 ﻿using System;
-using NLog;
 
-namespace IUtility
+namespace LoggerUtility
 {
-    public interface INlog
+    public class Class1
     {
-        //private readonly ILogger logger 
-    }
-
-    public interface ISerilog
-    {
-
     }
 }
